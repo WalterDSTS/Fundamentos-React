@@ -40,7 +40,7 @@ Esse projeto tem o intuito de praticar os conceitos do React. A aplicação util
 - React Router DOM
 
 
-## Instalação
+## Utilização
 
 Instale as dependências do projeto com:
 
