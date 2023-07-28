@@ -1,5 +1,5 @@
 # Fundamentos React
-Esse projeto tem o intuito de praticar os conceitos do React. A aplicação utiliza o WebPack em conjunto com o Babel para compilar códigos JSX(Códigos HTML criados em arquivos JS) para JS, em seguida, emula um servidor local SPA (Single Page Application) que representa gráficamente os elementos na tela. No demais, ao decorrer dos códigos estão presentes os conceitos do React e suas funcionalidades, casos de uso e assim por diante.
+Esse projeto tem o intuito de praticar os conceitos do React. A aplicação utiliza WebPack em conjunto com Babel para compilar códigos JSX(Códigos HTML criados em arquivos JS) para JS, em seguida, emula um servidor local SPA (Single Page Application) que representa graficamente os elementos na tela. No demais, ao decorrer dos códigos estão presentes os conceitos do React e suas funcionalidades, casos de uso e assim por diante.
 
 ## Tecnologias utilizadas
 - Babel
